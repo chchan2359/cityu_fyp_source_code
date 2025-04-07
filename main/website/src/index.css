@@ -1,0 +1,100 @@
+body{
+    background-color: hsl(0, 0%, 90%);
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: hsl(124, 32%, 82%);
+}
+
+textarea {
+    width: 100%;
+    max-width: 500px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 0.2%;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+    background-color: #45a049;
+}
+
+.card h1, .card h2, .card h3 {
+    margin: 0.5em 0;
+}
+
+.card p {
+    margin: 0.5em 0;
+}
+
+.card ul {
+    margin: 0.5em 0;
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.card li {
+    margin: 0.25em 0;
+}
+
+.card ul ul {
+    padding-left: 25px;
+    list-style-type: circle;
+}
+
+.card ul ul li {
+    margin: 0.2em 0;
+}
+
+.card li > strong {
+    font-size: 1.1em;
+    color: #333;
+    display: block;
+    margin-bottom: 0.3em;
+}
+
+.card h3:hover {
+    color: #4caf50;
+}
+
+#box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+
+#display-inline-block {
+    display: flex;
+    justify-content: center;
+}
+
+.imagebox {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.imagebox img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}

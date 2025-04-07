@@ -1,0 +1,22 @@
+[
+    {
+        "id": "plant_info(ncstate)_emerald_ripple_pepper_basic",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Basic Information",
+        "content": "Emerald Ripple Pepper is a tropical plant in the Piperaceae (pepper) family that is commonly used as a houseplant in temperate climates. In the tropics, this plant is an evergreen herbaceous ground cover with an erect and bushy habit growing up to 8 inches tall. It can also be epiphytic in the jungles of South America where it is native; The genus name Peperomia is derived from two Greek words peperi meaning pepper and homoios which means resembles, referring to its resemblance to the true black pepper plant Piper nigrum. The species name caperata is Latin for wrinkled, describing the wavy texture of the leaves; An easy-to-grow houseplant tolerant of indoor conditions. Medium light conditions such as sun filtered through a thin curtain are ideal, along with soil that dries between watering and medium to low relative humidity. It is tolerant of low light for several months without stress but it will not tolerate wet soil, very dry soil, or very drafty sites; This plant has highly decorative heart-shaped leaves with a deeply furrowed nature and cream-colored, spiked inflorescence both adding interest to any interiorscape. The plant gets its common name from its wrinkled green leaves, which are so dark they almost appear purple. Propagate this plant through leaf or stem tip cuttings in the spring; This plant is commonly used as an interior specimen or a desktop plant. It performs well with bright, fluorescent lights so is ideal for offices. Plant it in a container or in a hanging basket to enjoy its attractive leaves. In areas free of frost it can be grown as a groundcover in a border front or herbaceous perennial bed.",
+        "metadata": {
+            "source": "NC State Extension",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(ncstate)_emerald_ripple_pepper_problem_pests_diseases",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Problem Pests Disease",
+        "content": "Insects, Diseases, and Other Plant Problems: Insect pests include whiteflies, mealybugs, and spider mites. Leaf spot occasionally occurs. It is susceptible to root rot so use a porous well-draining potting soil.",
+        "metadata": {
+            "source": "NC State Extension",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

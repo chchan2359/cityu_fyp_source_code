@@ -1,0 +1,52 @@
+[
+  {
+    "id": "plant_info(killplants)_fiddle_leaf_fig_basic",
+    "title": "Fiddle-Leaf Fig (Ficus Lyrata) - Basic Information",
+    "content": "A lush, exotic tree that brings a sense of the jungle to your living room. Choose a bright spot in a warmish room (18–24ºC/64–75ºF), away from any radiators or draughts, and no colder than 13°C (55°F) in winter. The plant doesn't like being moved, so once you have found the right spot for it, leave it there. Place it in bright light, but direct summer sun will burn the leaves. From spring to autumn, water only when the top 2–3cm (1in) of soil is dry. Water sparingly during winter. Feed monthly in spring and summer. Clean the leaves if dusty. Mist them occasionally – more in summer, or if the room is centrally heated. You might need to support the plant with a cane. When the plant is young, repot it into a slightly larger pot every spring. As it matures, replace only the top 5cm (2in) of compost.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructions"
+    }
+  },
+  {
+    "id": "plant_info(killplants)_fiddle_leaf_fig_bug_alert",
+    "title": "Fiddle-Leaf Fig (Ficus Lyrata) - Bug Alert",
+    "content": "Prone to mealybugs, scale insects, and red spider mites on the foliage.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "plant_info(killplants)_fiddle_leaf_fig_sudden_leaf_loss",
+    "title": "Fiddle-Leaf Fig (Ficus Lyrata) - Sudden Leaf Loss",
+    "content": "A sudden loss of a lot of leaves could be due to your plant being moved, which will cause it stress. Alternatively, it could be caused by dry air, over- or underwatering, over- or underfeeding, temperature, and draughts. Avoid moving your plant. If your plant has not recently been moved, check its location and your care regime.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "plant_info(killplants)_fiddle_leaf_fig_leaf_tips_brown",
+    "title": "Fiddle-Leaf Fig (Ficus Lyrata) - Leaf Tips Turning Brown?",
+    "content": "This is probably due to low humidity, or inadequate or erratic watering. Mist the leaves regularly – especially in centrally heated rooms. Make sure you water at regular intervals, and check that the whole root ball gets wet.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "plant_info(killplants)_fiddle_leaf_fig_dark_patches_spots",
+    "title": "Fiddle-Leaf Fig (Ficus Lyrata) - Dark Patches or Spots on Leaves?",
+    "content": "Dark patches could be sunburn. Small dark spots could be leaf spot. Move it out of direct sunlight. If leaf spot, remove any affected leaves and treat with fungicide.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  }
+]

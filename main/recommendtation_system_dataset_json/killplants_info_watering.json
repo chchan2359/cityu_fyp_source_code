@@ -1,0 +1,52 @@
+[
+  {
+    "id": "houseplant(killplants)_watering_basic",
+    "title": "Houseplant Watering - Basic Information",
+    "content": "Incorrect watering is the main reason that houseplants die - particularly overwatering. Here are the best methods to water healthy plants and save wilted ones.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructions"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_watering_how_to_water",
+    "title": "Houseplant Watering - How to Water",
+    "content": "Most plants can be watered from above. If your plant has hairy leaves, however, or the foliage covers the compost, water it from below to avoid splashing the leaves. Orchids can be dipped and drained - it allows their coarse compost to absorb the right amount of water. Water your plants with tepid water so that the water temperature doesn't shock them. It's also worth leaving a bucket outside (if possible) to collect rainwater. Some plants, such as bromeliads, prefer it, as they are sensitive to the chemicals in hard tap water. For most plants, use a thin, long-necked watering can so that the spout can reach the compost easily. Water around the base of the plant so that the compost is evenly moist, and allow the excess water to drain away. Use this method to avoid splashing the leaves, which will create ugly marks and lead to the leaves rotting. Stand the pot in a saucer of water for around 30 minutes. Drain any excess water from the saucer. A good technique for watering orchids - place the pot in a container of tepid water and leave it to stand for around 10 minutes. Let it drain thoroughly.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructions"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_watering_how_much_water",
+    "title": "Houseplant Watering - How Much Water?",
+    "content": "Here are some things to consider when working out whether your plant needs watering, and how much water to give it. Overwatering is the number one cause of houseplant death. But be sure not to underwater either. Don't water to a timetable - get to know your plant's needs instead. Most plants only need watering when the top 1-2cm (1/2-3/4in) of compost is dry - gently poke your finger into the soil to test it. If a rosette of leaves is covering the compost, go by the weight of the pot - a very light pot will have dry compost. Aim to make the compost moist, but not wet. Most houseplants hate sitting in soggy compost, so always let excess water drain away. Compost in terracotta pots dries out more quickly than that in plastic or ceramic pots, this is because terracotta is a porous material. Most plants need less water in winter as they are not actively growing. Some plants need this period of winter rest to reflower.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructions"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_watering_underwatering",
+    "title": "Houseplant Watering - Wilting Due to Underwatering?",
+    "content": "If your plant has wilted, it may be due to a lack of water. Check that the compost is dry to ensure that your plant has been underwatered, as overwatering can have the same effect. Move your plant somewhere shady and fill a bowl with tepid water. In just its plastic pot with drainage holes, dunk your plant into the water, weighing it down if it floats. Soak for around 30 minutes and drain. The plant should revive within an hour.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_watering_overwatering",
+    "title": "Houseplant Watering - Wilting Due to Overwatering?",
+    "content": "Plants can also wilt due to waterlogging. This is much more serious as it can kill your plant more quickly than underwatering. Remove your plant from its pot(s) and wrap the root ball with newspaper or paper towels, replacing them until they have soaked up all the moisture. Repot the plant into fresh compost and keep the plant out of direct sun. Keep the compost just moist for a few weeks.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  }
+]

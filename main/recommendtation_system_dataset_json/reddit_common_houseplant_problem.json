@@ -1,0 +1,92 @@
+[
+  {
+    "id": "houseplant(reddit)_problem_too_little_water",
+    "title": "Common Houseplant Problem Guideline - Too Little Water",
+    "content": "Leaves limp and wilted (look sad). Little to no growth. Lower leaves curled, yellow and wilted. Leaf edges brown and dry. Flowers fall or fade quick. Oldest leaves fall first.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_too_much_water",
+    "title": "Common Houseplant Problem Guideline - Too Much Water",
+    "content": "Limp leaves (may feel mushy and brown quickly). Soft, rotten areas. Poor growth. Flowers moldy. Leaves curled, yellow and wilted. Leaf tips brown (could also signify low humidity). Both young and old leaves fall at same time. Roots brown and mushy. Soil smells acidic.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_too_little_light",
+    "title": "Common Houseplant Problem Guideline - Too Little Light",
+    "content": "Leaves smaller and paler than normal. Blooms poor or absent in flowering types. Lower leaves turn yellow, then dry up and fall. No growth at all. Spindly growth with abnormally long spaces between leaves. Variegated leaves turn all-green. Leaf bleaching.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_too_much_light",
+    "title": "Common Houseplant Problem Guideline - Too Much Light",
+    "content": "Brown or grey scorch patches. Leaves wilt at midday. Leaves have 'washed-out' appearance. Leaves of 'sun shy' varieties shriveled and dead.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_too_little_humidity",
+    "title": "Common Houseplant Problem Guideline - Too Little Humidity",
+    "content": "Leaf tips brown and shriveled. Leaf edges turn yellow; wilting may occur. Buds and flowers shrivel and fall. Leaves fall if plant is very sensitive to dry air.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_too_much_humidity",
+    "title": "Common Houseplant Problem Guideline - Too Much Humidity",
+    "content": "Patches of grey mold on leaves. Patches of rot on leaves or stems (Cacti and succulents very sensitive). Flowers covered with grey mold.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_too_little_fertilizer",
+    "title": "Common Houseplant Problem Guideline - Too Little Fertilizer",
+    "content": "Slow growth. Little resistance to pests and diseases. Leaves pale. 'Washed-out' appearance. Yellow spotting may be present. Flowers absent or small and poorly colored. Stems weak. Early drooping of lower leaves.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_too_much_fertilizer",
+    "title": "Common Houseplant Problem Guideline - Too Much Fertilizer",
+    "content": "Leaves wilted. Summer-growth stunted. Winter-growth lanky and weak. Crisp, brown spots. Scorched edges. Leaf bleaching. White crust on surface of compost and clay pot in a soft-water area.",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(reddit)_problem_temperature_wrong",
+    "title": "Common Houseplant Problem Guideline - Temperature Wrong",
+    "content": "Leaf curl, followed by browning and leaf fall (too cold). Lower leaves wilt; edges turn brown. Bottom leaves fall (too warm). Flowers short-lived (too warm). Spindly growth in good light in winter or early spring (too warm). Leaf fall after rapid yellowing (sudden temp. change).",
+    "metadata": {
+      "source": "Reddit - Plantclinic: A Guide to Common Houseplant Problems (https://www.reddit.com/r/plantclinic/comments/o78mnv/a_guide_to_common_houseplant_problems/)",
+      "credibility": "Medium",
+      "category": "Troubleshooting"
+    }
+  }
+]

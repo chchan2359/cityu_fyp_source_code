@@ -1,0 +1,52 @@
+[
+    {
+        "id": "houseplant(DKGrow)_pests_aphids",
+        "title": "Houseplant Pests - Aphids",
+        "content": "Description for this disease, Stunted and distorted plant growth, spread of viruses, presence of sticky honeydew excrement; This is caused by, Green, black, or brown sap-sucking aphids on plants stressed by their environment; To resolve this issue, Wipe off if caught early, or spray plants with soap and water solution, or treat with insecticide",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_pests_mealybugs",
+        "title": "Houseplant Pests - Mealybugs",
+        "content": "Description for this disease, Stunted and distorted growth, sticky honeydew coating the plant; This is caused by, Sap-sucking insects that resemble fluffy cotton appear on leaf axils and under leaves; some feed on roots; To resolve this issue, Use a cotton ball to remove. Throw out badly infested plants. Mealybugs are often present on new plants, so check before buying.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_pests_scale_insects",
+        "title": "Houseplant Pests - Scale Insects",
+        "content": "Description for this disease, Bumps on stems or under leaves; foliage may turn yellow and be covered in sticky honeydew excrement; This is caused by, Brown, sap-sucking, immobile pests on the underside of leaves; To resolve this issue, Prune badly affected stems or dab them with rubbing alcohol on a cotton swab. The pests are often found on new plants, so check before buying.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_pests_red_spider_mites",
+        "title": "Houseplant Pests - Red Spider Mites",
+        "content": "Description for this disease, Yellow marks and unsightly webbing appear on foliage; This is caused by, Hot, dry, and overcrowded growing environments attract tiny, fast-spreading red spider mites; To resolve this issue, Mist plants, as the pests prefer a dry atmosphere. Throw away badly affected plants immediately to prevent the spread of these pests.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_pests_vine_weevils",
+        "title": "Houseplant Pests - Vine Weevils",
+        "content": "Description for this disease, Begonias and cyclamen, among other plants, develop holes on their leaf margins in spring and summer; This is caused by, Adult vine weevils, which are often found on new plants. Grubs eat roots in the fall and winter; To resolve this issue, Check pots for grubs and under pots for adults. Wash off roots and repot, or throw out the plants.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

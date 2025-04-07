@@ -1,0 +1,32 @@
+[
+    {
+        "id": "houseplant(completeplants)_grooming_basic",
+        "title": "Houseplant Grooming - Basic Information",
+        "content": "To keep your houseplants looking their best, take time every 2 to 3 weeks to relieve them of old leaves, while taking stock of their general condition. You might think of these grooming sessions as wellness patrols - the time when you practice good preventive health care while improving the appearance of your plants. You can use your fingertips to pinch off failing leaves from many plants, but a small pair of scissors makes a cleaner cut and avoids any twisting of stems.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_grooming_health_patrol",
+        "title": "Houseplant Grooming - Health Patrol",
+        "content": "As you remove withered or yellowed leaves, check your plants carefully for evidence of insect pests or diseases. Insect pests often hide on leaf undersides, while leaf spots with circular or halo-type patterns are often caused by fungal disease. When entire branches show signs of pest problems, go ahead and snip them off. Pest-damaged foliage never recovers its vigor, and it does no good when left on the plant. Pick up withered leaves that lie crumpled on the soil's surface as well, because they can harbor diseases and insect pests, too; Never pull on plants when removing withered foliage. Use small pruning shears or sharp scissors instead.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_grooming_precautions",
+        "title": "Houseplant Grooming - Precautions",
+        "content": "Most leaves that are shed by plants are not troubled by pests. Shedding leaves is more often the plant's way of letting go of the old and making way for the new. As you aid in this process, the plant benefits from improved air circulation and light exposure, and of course the plant looks better, too. Plants that have shed most of their lower leaves and become unattractive in the process can be staked, prepared for propagation, or possibly discarded.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    }
+]

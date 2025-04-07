@@ -1,0 +1,22 @@
+[
+    {
+        "id": "plant_info(missouri_botanical)_emerald_ripple_pepper_basic",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Basic Information",
+        "content": "Peperomia caperata, commonly known as emerald ripple or peperomia, is a dense mound-forming tropical perennial that typically grows to 8 inches tall and as wide. It is an epiphytic plant that is native to Brazil; Features rosettes of long stemmed, wrinkled, deeply corrugated, heart-shaped, dark green leaves (to 1 1/2 inches long) on long red-tinged stalks. Leaves are deeply veined with an attractive corrugated surface. Leaf color is close to black along the corrugations. Tiny, whitish-green flowers in 2-3 inches long spikes bloom in summer and early fall atop thin reddish flower stalks which rise well above the foliage. Flowers are not particularly showy, but are produced in abundance and add considerable interest to the ornamental appearance of the plant. Flower stalks are purportedly reminiscent of mouse tails; Genus name comes from the Greek words peperi meaning pepper and homoios meaning resembling. The plants resemble, and are closely related to, true black pepper (Piper nigrum); Specific epithet comes from the Latin word caperatus meaning wrinkled in reference to leaf texture.",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(missouri_botanical)_emerald_ripple_pepper_problem_pests_diseases",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Problem Pests Diseases",
+        "content": "Watch for mealybugs, spider mites and white fly. Leaf spots may occur. Susceptible to rot if soils are kept too moist. Wetness and cold winter temperatures must be avoided.",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

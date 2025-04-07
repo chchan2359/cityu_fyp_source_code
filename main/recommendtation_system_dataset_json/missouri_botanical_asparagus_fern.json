@@ -1,0 +1,22 @@
+[
+    {
+        "id": "plant_info(missouri_botanical)_asparagus_fern_basic",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Basic Information",
+        "content": "Asparagus setaceus, commonly called asparagus fern, is not in fact a fern. It is a bushy, evergreen, twining vine with wiry, spiny, scrambling or climbing stems that typically grow to 10-20 inches long. It features feathery, fern-like flattened sprays of bright green stems, small white summer flowers and deep purple berries. The true leaves of this plant are tiny dry scales. The structures which appear to be leaves are flattened shoots (modified stems) called cladodes or cladophylls on which the flowers and fruits are borne. Cladophylls rise from the axil between the stem and the scale-like leaf. Mature stems become woody over time and develop sharp spines. This vine is native to South Africa, but has been introduced in subtropical areas around the world.  It has shown weedy tendencies in some locations; Synonymous with Asparagus plumosus and Protasparagus setaceus; Genus name is the classical name of this plant;",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(missouri_botanical)_asparagus_fern_problem_pests_diseases",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Problem Pests Diseases",
+        "content": "Watch for slugs, mites and aphids. Leaf spot and rots may occur.",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

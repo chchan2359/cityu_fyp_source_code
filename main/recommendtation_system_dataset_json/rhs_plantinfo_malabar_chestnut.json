@@ -1,0 +1,92 @@
+[
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_basic",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Basic Information",
+        "content": "A large, evergreen tree grown as a houseplant, often with several plants plaited together. Stems are bright green at first, becoming grey-brown; the large, glossy, dark green leaves have five or more lance-shaped leaflets. Can reach 20m in its tropical home, but unlikely to exceed 1. 5m in a pot.  Mature trees produce spectacular flowers with five, 30cm-long, cream petals and 200 or more gold and crimson stamens, followed by large fruit containing up to 25 nuts",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_size",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Size",
+        "content": "Ultimate Height: 1 to 1.5 Metres; Ultimate Spread: 0.1 to 0.5 Metres; Time to Ultime Height: 5 to 10 years",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_growing_conditions",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Growing Conditions",
+        "content": "Soil for this plant: Loam (Common houseplant soil); Moisture: Moist but well-drained; pH Value: Neutral, Acide, Alkaline",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_position",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Position",
+        "content": "Aspect: East-facing or South-facing or West-facing; Full shade or Partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_cultivation",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Cultivation",
+        "content": "Grow indoors in an open, free-draining compost in bright light or partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_propagation",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Propagation",
+        "content": "Propagate by seed, semi-ripe cuttings or air-layering",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_pruning",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Pruning",
+        "content": "Cut back shoots as necessary to control size, in spring",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_pests",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Pests",
+        "content": "May be susceptible to scale insects, glasshouse red spider mite and aphids",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_malabar_chestnut_diseases",
+        "title": "Malabar Chestnut (Pachira Aquatic) - Diseases",
+        "content": "May be susceptible to a leaf spot",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "houseplant(DKGrow)_diseases_basic",
+        "title": "Basic information about Houseplant Problem",
+        "content": "Most plants are affected by pests and diseases at some point. The sooner you spot problems, the easier it is to resolve them. If you leave them to develop, you may have to isolate or discard the plant. Many gardeners opt for organic or natural solutions, such as spraying or wiping leaves with soapy water, before resorting to insecticides and fungicides.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_diseases_gray_mold",
+        "title": "Houseplant Diseases - Gray Mold",
+        "content": "Description for this disease, Fuzzy, gray mold appears on the stems and leaves of affected plants and leads to decay; This is caused by, Humid environments, poor ventilation, overcrowded plants; To resolve this issue, Remove affected leaves quickly, increase ventilation, don't overcrowd plants. Avoid by deadheading flowers and clearing up fallen leaves regularly.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_diseases_crown_rot",
+        "title": "Houseplant Diseases - Crown Rot",
+        "content": "Description for this disease, Stems weaken and turn brown at the base of the plant. The rot spreads to the leaves and causes decay; This is caused by, Overwatering or using a pot with no drainage holes so that plants become waterlogged; To resolve this issue, Remove damaged stems and leaves, reduce watering, and change the pot to allow for good drainage.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_diseases_powdery_mildew",
+        "title": "Houseplant Diseases - Powdery Mildew",
+        "content": "Description for this disease, A white powdery fungus appears on flowers, stems, and leaves. It's unpleasant to look at but not fatal; This is caused by, Lack of water, too much feed, or poor ventilation; To resolve this issue, Remove affected parts of the plant, water more regularly, and improve ventilation in the room. Avoid getting foliage wet when watering.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_diseases_sooty_mold",
+        "title": "Houseplant Diseases - Sooty Mold",
+        "content": "Description for this disease, Black fungus covers leaves, forming a barrier between the leaf and sunlight and resulting in weak growth; This is caused by, The fungus grows on the sticky honeydew excreted by aphids, scale insects, and mealybugs; To resolve this issue, Wipe off the fungus with a cloth soaked in warm water. Control the offending insects.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_diseases_viruses",
+        "title": "Houseplant Diseases - Viruses",
+        "content": "Description for this disease, Symptoms vary from streaked and spotted leaves to mosaic patterns; flowers can develop white markings. Growth becomes stunted or distorted; This is caused by, Viruses can be brought in by insects or the plant might have been affected before purchase; To resolve this issue, There is no cure. Discard the plant if you're sure it's a virus.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

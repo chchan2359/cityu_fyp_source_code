@@ -1,0 +1,92 @@
+[
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_basic",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Basic Information",
+        "content": "A medium-sized climber with leathery, narrowly ovate, glossy dark green leaves 2-5cm in length.  Fragrant, buff-centred, creamy flowers 2cm in width in clusters at the ends of lateral shoots",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_size",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Size",
+        "content": "Ultimate Height: 4 to 8 Metres; Ultimate Spread: 4 to 8 Metres; Time to Ultime Height: 5 to 10 years",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_growing_conditions",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Growing Conditions",
+        "content": "Soil for this plant: Loam (Common houseplant soil), Chalk, Sand; Moisture: Well-drained; pH Value: Neutral, Acide, Alkaline",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_position",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Position",
+        "content": "Aspect: South-facing or West-facing; Full Sun or Partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_cultivation",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Cultivation",
+        "content": "Grow in fertile well-drained soil in full sun or partial shade with shelter from cold winds; for conservatory cultivation can be grown in a container in a peat-free, loam-based potting compost in full light with shade from hot sun",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_propagation",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Propagation",
+        "content": "Propagate by layering or semi-hardwood cuttings",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_pruning",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Pruning",
+        "content": "Pruning in early spring",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_pests",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Pests",
+        "content": "May be susceptible to cushion scale, mealybugs and glasshouse red spider mite",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_ogon_nishiki_diseases",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticu) - Diseases",
+        "content": "May be susceptible to fungus (Honey Fungus)",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

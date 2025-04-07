@@ -1,0 +1,12 @@
+opencv-python
+numpy
+flask
+flask_cors
+ultralytics
+faiss-cpu
+sentence_transformers
+transformers==4.50.3
+selenium
+beautifulsoup4
+imagehash
+webdriver-manager

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "houseplant(killplants)_diseases_basic",
+    "title": "Houseplant Diseases - Basic Information",
+    "content": "Caring for your houseplants correctly is the best defence against disease, but stay vigilant! Here's how to spot and treat diseases that could attack your plant.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_botrytis",
+    "title": "Houseplant Diseases - Botrytis (or Grey Mould)",
+    "content": "Grey fluff can be found all over the plant, especially in cool, damp, or congested conditions. Water your plant from below to avoid splashing water on the leaves or crown. Remove any affected areas, along with any mouldy compost, and treat with a fungicide. Water and mist less frequently. Improve ventilation.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_crown_stem_rot",
+    "title": "Houseplant Diseases - Crown and Stem Rot",
+    "content": "The lower parts of the plant are dark, soft, and rotten, due to a fungal infection. It's usually caused by excess watering, splashing the base of the stems, or cool conditions. You can try to save your plant by cutting out the affected area and treating it with a fungicide. Avoid overwatering, and move the plant to a warmer, well-ventilated spot.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_powdery_mildew",
+    "title": "Houseplant Diseases - Powdery Mildew",
+    "content": "Patches of white dust will appear on the leaves. It's more likely to occur where plants are crowded together, on underwatered plants, or in conditions that are too hot and humid. It's not fatal, but it can weaken your plant. Remove the affected leaves, and treat your plant with fungicide. Space plants further apart to improve airflow.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_oedema",
+    "title": "Houseplant Diseases - Oedema",
+    "content": "Look for corky growths on the underside of leaves. Oedema is caused by waterlogging, high humidity, and low light. Water your plant from below to avoid splashing water on the leaves or crown. Remove any affected areas, along with any mouldy compost, and treat with a fungicide. Water and mist less frequently. Improve ventilation.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_sooty_mould",
+    "title": "Houseplant Diseases - Sooty Mould",
+    "content": "This black fungus grows on the sticky waste of aphids, whitefly, scale insects, and mealybugs. It blocks light and the plant's pores. Sponge off the mould with a clean, damp cloth and treat the insect infestation (see houseplant(killplants)_pests).",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_viruses",
+    "title": "Houseplant Diseases - Viruses",
+    "content": "Signs include mottled, yellow foliage, distorted growth, and white streaks on the flowers. A virus would have been transmitted by insects or was already present on the plant when it was bought. There is nothing you can do to save it.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_leaf_spot",
+    "title": "Houseplant Diseases - Leaf Spot",
+    "content": "Brown or black spots on the foliage are often surrounded by a yellow halo. Leaf spots can merge and kill an entire leaf. Caused by bacteria or fungi, they are more likely in damp or overcrowded conditions, or if water has been splashed on the leaves. Remove any affected leaves and treat your plant with fungicide. Reduce humidity and space plants more widely.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_diseases_root_rot",
+    "title": "Houseplant Diseases - Root Rot",
+    "content": "Caused by overwatering, root rot is a fungal infection of the roots that will lead to yellow, wilting leaves that turn brown, followed by the collapse of your plant. Affected roots will be soft and dark. Remove the compost to check the roots. You can try to save it by trimming off any affected roots with a sharp knife, leaving any healthy, white roots. Then cut the plant back to allow for the root reduction, treat with a fungicide, and repot in fresh compost and a disinfected pot.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  }
+]

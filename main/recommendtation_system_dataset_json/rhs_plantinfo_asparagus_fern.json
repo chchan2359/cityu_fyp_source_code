@@ -1,0 +1,92 @@
+[
+    {
+        "id": "plant_info(rhs)_asparagus_fern_basic",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Basic Information",
+        "content": "A bushy tuberous perennial developing twining stems to 2.5m tall, with fine feathery bright green foliage, small white flowers and deep purple berries",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_size",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Size",
+        "content": "Ultimate Height: 1.5 to 2.5 Metres; Ultimate Spread: 0.1 to 0.5 Metres; Time to Ultime Height: 2 to 5 years",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_growing_conditions",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Growing Conditions",
+        "content": "Soil for this plant: Loam (Common houseplant soil), Chalk, Clay, Sand; Moisture: Moist but well-drained; pH Value: Neutral, Acide, Alkaline",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_position",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Position",
+        "content": "Aspect: West-facing or South-facing; Partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_cultivation",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Cultivation",
+        "content": "Under glass grow in peat-free, loam-based potting compost in bright filtered light sheltered from hot sun. Keep frost free. Water freely from spring to mid-autumn; water more sparingly in winter. Pot on in spring.",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_propagation",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Propagation",
+        "content": "Propagate by seed in autumn or early spring, germinate at 16°C (61°F).  Divide in early spring",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_pruning",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Pruning",
+        "content": "No pruning required",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_pests",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Pests",
+        "content": "May be susceptible to asparagus beetle, slugs and snails",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_asparagus_fern_diseases",
+        "title": "Asparagus Fern (Asparagus Setaceus) - Diseases",
+        "content": "Generally disease-free",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "houseplant(wrongplants)_temperature_basic",
+        "title": "Houseplant Temperature - Basic Information",
+        "content": "Success with a particular houseplant depends on knowing the daily temperature regime (daytime high and nighttime low) that plant needs to flourish under your care. Fortunately, plants are fairly forgiving and will adjust to day or night temperatures within a range of about ten degrees Fahrenhreit. The plant portrait of each houseplant specifies the appropriate temperature range, daytime and nighttime, for best suc cess with that plant; Night temperatures are critical for houseplants because plants cannot manufacture food (sugar) through photosynthesis when the sun is not shining. In order to maintain metabolism and growth at night the plant has to burn some of the food it made during the day. For plants, metabolizing food is called respiration. Respiration is the exact opposite process from photosynthesis and it is critically linked to tem perature. As the temperature goes up metabolism goes up. As the nighttime temperature goes higher a plant will reach a point where it has burned up all the food it made during the day. At even higher temperatures it will burn up all its reserve food supply. Pretty soon the plant will be dead. This is why those irresistibly cute little miniature roses in 4-inch pots die within a couple weeks when you bring them home from the store. The warm nighttime temperature of our homes kills them. They are not only happy but exquisite if you plant them outdoors in the garden where nights are cold. They, like almost all temperate zone plants, are not houseplants.",
+        "metadata": {
+          "source": "Whats Wrong With My Houseplant Save Your Indoor Plants With 100 Organic Solutions (David C Deardorff, Kathryn B Wadsworth)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(wrongplants)_temperature_hightemperature",
+        "title": "Houseplant Temperature -  High temperature",
+        "content": "Plants that grow best in really warm temperatures generally do well with a daytime range of 75 to 85°F and a nighttime range of 65 to 75°F.",
+        "metadata": {
+          "source": "Whats Wrong With My Houseplant Save Your Indoor Plants With 100 Organic Solutions (David C Deardorff, Kathryn B Wadsworth)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(wrongplants)_temperature_moderatetemperature",
+        "title": "Houseplant Temperature - Moderate temperature",
+        "content": "Plants that prefer moderate temperatures perform well with a daytime range of 70 to 80°F and a nighttime range of 60 to 70°F.",
+        "metadata": {
+          "source": "Whats Wrong With My Houseplant Save Your Indoor Plants With 100 Organic Solutions (David C Deardorff, Kathryn B Wadsworth)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(wrongplants)_temperature_lowtemperature",
+        "title": "Houseplant Temperature -  Low temperature",
+        "content": "Plants that need low tem peratures tolerate a daytime range of 65 to 75°F and a nighttime range of 55 to 65°F.",
+        "metadata": {
+          "source": "Whats Wrong With My Houseplant Save Your Indoor Plants With 100 Organic Solutions (David C Deardorff, Kathryn B Wadsworth)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "plant_info(ncstate)_Kusamaki_basic",
+        "title": "Kusamaki (Podocarpus Macrophyllus) - Basic Information",
+        "content": "Kusamaki is a compact, evergreen, conifer shrub in the podocarp family (Podocarpaceae). Its origin is southern China, Taiwan and Japan. The species epithet means 'large leaf'; Kusamaki grows well in coastal and piedmont North Carolina and grows up to 6. 5 feet tall, although the tree form of this plant can grow up to 50 feet. In colder regions, it can be used as a container plant to be brought in from the outdoors during the winter months. It prefers rich, slightly acidic, moist, well-drained, fertile soils in full sun to partial shade. The plant is tolerant of shade but intolerant of wet soils. This plant likes medium relative humidity and has a slow growth rate. It is salt and drought tolerant and displays some tolerance to heat; The foliage is pleasantly fragrant when crushed. The pollen cones are yellowish and elongated, the seeds are light blue and fleshy, and the seed stalk enlarged and red. While these fleshy red arils are edible, children may be tempted to eat the round seeds, which are poisonous; This plant can also be grown as a specimen and background plant. It can be grown as a large hedge or screen. It adapts well to shearing and is sometimes used in topiary design.",
+        "metadata": {
+            "source": "NC State Extension",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(ncstate)_Kusamaki_problem_pests_diseases",
+        "title": "Kusamaki (Podocarpus Macrophyllus) - Problem Pests Diseases",
+        "content": "Insects, Diseases and Other Plant Problems:  Indoor plants may develop scale. Chlorosis (yellowing of the leaves) occurs in alkaline soils.",
+        "metadata": {
+            "source": "NC State Extension",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

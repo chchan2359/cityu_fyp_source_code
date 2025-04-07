@@ -1,0 +1,54 @@
+[
+    {
+        "id": "houseplant(DKGrow)_placing_light_basic",
+        "title": "Choosing the right light",
+        "content": "For plants to be able to successfully perform photosynthesis-the process by which they produce fuel for growth-their leaves must absorb energy from sunlight. The amount of light they require for good health depends on where they originate-a tropical rainforest or a desert, for example. The north-, south-, east-, and west-facing rooms in a house all have different levels of light and offer different growing opportunities.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_placing_light_south_facing_room",
+        "title": "Placing houseplants at South-Facing Rooms",
+        "content": "A south-facing room with a large window is the dream for many indoor gardeners. These rooms offer plants the highest temperatures and light levels. With luck, sun will stream in during the day-an ideal setting for plants that come from arid countries. Cacti and succulents-echeverias, for example -thrive in a south-facing room and its heat and light levels encourage flowering. However, plants that prefer shade and high humidity will suffer-their foliage is at risk from being scorched by the sun. Plants can easily dry out in a south- facing room: be vigilant about watering and move them to a shadier spot if you're away for any length of time.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(DKGrow)_placing_light_west_facing_room",
+        "title": "Placing houseplants at West-Facing Rooms",
+        "content": "A west-facing aspect is a happy medium for most plants and the range you can grow here will be wide. The room will be filled with afternoon and evening sunlight, which has far more warmth than the morning sun offered by an east-facing room. West-facing rooms offer a great growing environment- it's almost worth giving any plant a try in this spot, and it's always a safe bet if you're unsure of a plant's needs. This location is ideal for a collection of African violets -they need warmth and brightness to flower but their foliage would be scorched if placed in a south-facing aspect.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    }
+    ,
+    {
+        "id": "houseplant(DKGrow)_placing_light_east_facing_room",
+        "title": "Placing houseplants at East-Facing Rooms",
+        "content": "This is the perfect place for plants that prefer filtered sunlight rather than direct sun for most of the day. An east-facing room will receive morning sun and then filtered sunlight in the afternoon. Plants such as the scarlet star, which would naturally grow under the canopy of trees and plants in a tropical forest, will flourish in this location. The variegated or colorful foliage of plants that enjoy filtered light can fade over time in this room due to lack of light in winter. Remedy this by moving them to a south- or west-facing aspect.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    }
+    ,
+    {
+        "id": "houseplant(DKGrow)_placing_light_north_facing_room",
+        "title": "Placing houseplants at North-Facing Rooms",
+        "content": "Although these are the darkest rooms in the house, many plants love the shady conditions. In summer, a north-facing room will receive some evening sun, but in winter it will be far darker. Move plants that are reaching for the light to a west-facing aspect in the colder, darker months of the year and return them to the north-facing aspect in summer. The plants that flourish in this shady spot tend to be those with large, dark green foliage. The Chinese evergreen will grow happily here, as will the rubber plant. Be very careful not to overwater plants growing in a shady room, as potting mix will take longer to dry out.",
+        "metadata": {
+            "source": "Grow Houseplants Essential know-how and expert advice for success (DK Grow)",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    }
+]

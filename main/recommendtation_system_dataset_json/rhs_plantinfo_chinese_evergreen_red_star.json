@@ -1,0 +1,92 @@
+[
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_basic",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Basic Information",
+        "content": "An upright, clump-forming tropical evergreen perennial houseplant with large, glossy pink to red foliage with irregular dark green edges.  Colour will depend on light levels - the higher the level the more pronounced the colours will be",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_size",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Size",
+        "content": "Ultimate Height: 0.1 to 0.5 Metres; Ultimate Spread: 0.1 to 0.5 Metres; Time to Ultime Height: 2 to 5 years",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_growing_conditions",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Growing Conditions",
+        "content": "Soil for this plant: Loam (Common houseplant soil), Chalk, Sand; Moisture: Well-drained; pH Value: Neutral, Acide, Alkaline",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_position",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Position",
+        "content": "Aspect: West-facing or South-facing; Partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_cultivation",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Cultivation",
+        "content": "Grow under glass. Water moderately as excess water will lead to stem rot.",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_propagation",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Propagation",
+        "content": "Propagate from basal shoots or by division",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_pruning",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Pruning",
+        "content": "No pruning required",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_pests",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Pests",
+        "content": "May be susceptible to mealybugs",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_chinese_evergreen_red_star_diseases",
+        "title": "Chinese Evergreen, Red Star (Aglaonema) - Diseases",
+        "content": "Generally disease-free",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

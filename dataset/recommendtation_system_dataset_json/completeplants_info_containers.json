@@ -1,0 +1,82 @@
+[
+    {
+      "id": "houseplant(completeplants)_containers_basic",
+      "title": "Houseplant Containers - Basic Information",
+      "content": "The containers you choose for your houseplants are the only home they know, but they are part of your home, too. This balancing act - providing containers that meet the needs of your plants while also pleasing you with their presence - is not difficult if you keep a few fundamental guidelines in mind. These include size, drainage, and material. When interior decor is your priority, it is usually best to choose the container before you choose the plant. Once the container and plant are in place, you may find that a third element, such aas a small piece of statuary, works magic in bringing the composition to life; Keep in mind that flat surfaces, such as floors, tabletops, and windowsills, are not the only places to keep plants. Various types of hardware - including hooks, chains, and fiber hangers - can be used to turn almost any container into a hanging basket, or you can use a container designed to be suspended from a hook. This is often a great way to give a plant bright light that might otherwise be wasted. When installing a hook in the ceiling or mounting hanging hardware on a wall, make sure it is firmly anchored into a joist (the solid pieces of wood behind sheetrock). Otherwise, only very light plants, such as tillandsias (air plants), will be suitable for hanging.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+        "id": "houseplant(completeplants)_containers_size",
+        "title": "Houseplant Containers - Size",
+        "content": "Regardless of the material from which a container is made, its size should be proportional to that of its occupant. As a rule of thumb, measure the height of the plant from the soil line to the highest leaf. Divide this number by 3, and you have a good guess as to the ideal diameter of the container, measured in inches; Choose containers in proper proportion to the size of the plant. A container that is about one-third as tall as the plant often works best; This equation won't work with low-growing, vining plants or small, squat cacti, so the next size-wise guideline is to choose the smallest container that will accommodate the roots of the plant. There are two reasons to go small with containers. One is that small containers have a dwarfing effect on plant size, which is usually desirable under indoor conditions. Second, soil that is not employed in the service of roots tends to hold onto excess moisture, which in turn sets a tempting table for fungi that cause roots to rot; The diameter of the top of the pot (the measurement between opposite edges) is usually about the same as its depth. However, some plants with shallow surface roots do better in a low, squat container. Notice, too, that pots that narrow toward the base are prone to toppling over when planted with tall plants, though they are fine for small ones. Heavy pots with attached drainage dishes are often ideal for top-heavy plants. If a tall plant insists on tipping over, move it into a square planter that sits solidly in place.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_containers_drainage",
+        "title": "Houseplant Containers - Drainage",
+        "content": "Whatever their size or shape, containers for plants must have drainage holes in the bottom through which excess water can escape. Several midsized drainage holes are better than one large one. Many gardeners place a piece of screen over the holes to keep soil from coming out along with excess water, but it is better to leave the holes unobstructed. That way, you can check for the presence of roots growing out of the bottom of the pot, and if drainage problems develop you can reopen the holes by poking them with a skewer, awl, or pencil. If soil loss is a big concern, simply line the bottom of the pot with a thin layer of pebbles or broken crockery when repotting your plants. A half inch of loose pebbles or broken crockery improves drainage too; Unfortunately, many beautiful brass, ceramic, or hand-thrown pottery planters do not include drainage holes. Holes can be drilled into plastic or fiberglass, but don't try this with fine ceramic or pottery. Instead, use these as cachepots, the term used to describe 'containers for your containers'.  Place an inch of clean pebbles in the bottom of the cachepot, and set your plant in a container that can be slipped inside the drainless one. (It's common to use a thin plastic pot for the inner one. ) As long as water is not allowed to form a deep puddle that keeps plant roots too wet, this double potting system works quite well. If you accidentally overwater, be sure to drain off any excess that pools up in the bottom of the cachepot; If a decorative container has no drainage holes, line the bottom with a layer of pebbles, and grow your plant in a well-drained container that can be slipped inside the prettier one and set on the pebble bed.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_containers_materials_basic",
+        "title": "Houseplant Containers - Materials Basic Information",
+        "content": "When purchased, most plants are growing in plastic containers. Plastic is lightweight, holds moisture well, and seldom breaks as plants are packed and shipped. There certainly are attractive plastic containers, but those supplied by greenhouse growers are more practical than pretty. Once a plant has had a few weeks to adjust to conditions in its new home, a container upgrade is usually in order. Possible materials include clay, better plastic, fiberglass, and ceramic.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_containers_materials_terra_cotta_clay_pots",
+        "title": "Houseplant Containers - Materials, Terra-cotta Clay Pots",
+        "content": "It is hard to criticize the handsome good looks of a healthy houseplant situated in the favorite choice, a clean clay pot set atop pebbles in a matching tray. Earth-toned clay pairs well with plants, and in the interest of uniformity, some people grow all of their plants in clay pots. Because it dries quickly, clay is the preferred container material for plants that like periods of dryness between waterings, such as bromeliads and orchids. If you find that clay pots dry out too fast, you can paint their insides with paraffin or any color of latex paint. Or you can shop for dense Italian clay pots, which usually have 'Made in Italy' stamped on the bottom. These cost more than comparatively porous Mexican-made pots and are usually a shade darker in color.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_containers_materials_plastic_pots",
+        "title": "Houseplant Containers - Materials Plastic Pots",
+        "content": "Always supplying superior moisture retention, plastic pots come in a variety of colors and finishes. Those with a dull matte finish often must be tapped with a finger to see if they are ceramic or plastic! Many plastic pots also have snap-on trays, which do a great job of capturing water that drips from the bottoms of the pots (an especially desirable feature for hanging baskets).  If you want a container in an unusual shape, such as an oblong box or a certain size of pedestal, you are most likely to find it in plastic.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_containers_materials_glazed_ceramic_or_fiberglass",
+        "title": "Houseplant Containers - Materials Glazed Ceramic or Fiberglass",
+        "content": "Designed to look like fine clay or ceramic, these are usually the pots of choice for formal living rooms. Good-quality fiberglass containers can be costly, but with a little care they will last a lifetime. Some contain enough metal to create a burnished finish, and fiberglass containers can be painted or antiqued if you want to make them fit a certain color scheme. Fiberglass containers are also quite lightweight, which makes them a top choice for large houseplants. Better garden shops carry fiberglass pots in a range of sizes and colors, including many that are replicas of classic Mediterranean styles. Select these with the same care you might put into choosing a piece of furniture; Smaller plants are most appropriate for ceramic containers, particularly pots that include an attached or matching drainage tray. When protected from abuse, ceramic containers often outlive the plants they are partnered with, so keep versatility in mind when investing in ceramic pots. Neutral grays and browns are easy to work with, and do not compete with plants for attention.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_containers_tips",
+        "title": "Houseplant Containers - Tips",
+        "content": "Regard plant containers as a long-term investment. Choose containers that work well with your interior décor, suit your personal taste, and include drainage holes through which excess water can escape; THE MORE STRIKING THE FOLIAGE, the plainer the container should be. A glossy dark-leafed peace lily (Spathiphyllum) would look great in a gilt-trimmed Oriental pot, but a prayer plant (Maranta), with its dramatic, vividly marked and veined leaves, calls for a simple, single-colored container; Grow bulbs and other short-lived bloomers in plain plastic pots until they form buds. Then, to bring out their best, slip them into a decorative wicker basket and hide the interior container from view with moss; When a clay or ceramic pot breaks, pick up the larger pieces and then use a hammer to smash it into smaller pieces that can then be used to line the bottoms of containers. (You should always wear protective eyewear to avoid injury from flying pieces. ); Clean your plant containers between uses. Scrub pots with plenty of hot, soapy water and let them soak, if needed, to remove salt deposits around the rims; Grouping matching containers together is a good way to display plants with different forms, textures, and foliage colors.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Care Instructions"
+        }
+    }
+]

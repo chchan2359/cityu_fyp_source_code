@@ -1,0 +1,22 @@
+[
+    {
+        "id": "plant_info(missouri_botanical)_moon_valley_basic",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Basic Information",
+        "content": "Pilea mollis is a bushy trailing plant that features clusters of ovate, toothed, textured, dark green leaves (to 3 inches long) with dark bronze undertones and often light green edges. Leaf undersides are typically dark red. Tiny pink-green flowers in branched cymes in summer are not particularly showy. Indoor plants rarely flower and fruit; Genus name comes from the Latin word pileus meaning a cap from the shape of the female flowers; Specific epithet means soft or with soft hairs; 'Moon Valley' is a more upright and mounding cultivar (to 12 inches tall) featuring textured bronze-green leaves with sunken purple veins and bright green margins. Leaf surface is strongly puckered in a way that purportedly resembles the surface of the moon, hence the cultivar name. 'Moon Valley' is also commonly sold in commerce as a cultivar of Pilea involucrata, but synonymity has not been conclusively determined.",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(missouri_botanical)_moon_valley_problem_pests_diseases",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Problem Pests Diseases",
+        "content": "Watch for mealybugs and spider mites. Leaf spots and stem rot may occur. Stems are fragile and break easily.",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

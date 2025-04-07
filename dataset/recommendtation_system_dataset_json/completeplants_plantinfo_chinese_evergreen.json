@@ -1,0 +1,142 @@
+[
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_basic_description",
+      "title": "Chinese Evergreen (Aglaonema) - Description",
+      "content": "One of the easiest foliage plantsS to grow, Chinese evergreen tolerates low light better than most other houseplants. It features glossy, often variegated leaves that bend outward in an elegant arch. Very small plants, such as those included in dish gardens, will grow in plain water, or in a container filled with clean pebbles or marbles, until you are ready to pot them up. Large aglaonemas can reach 36 in/90 cm in height, but they normally stay much smaller; This plant has long had one weakness: a low tolerance for cold air. But newer cultivars are much less likely to be injured by low temperatures. Newer varieties also form thicker clumps, so mature plants stay bushy rather than growing upright. New growth of all aglaonemas emerges from the crown, so plants that grow too tall cannot be pruned back without killing them.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_light",
+      "title": "Chinese Evergreen (Aglaonema) - Light",
+      "content": "Low indoor light near a north or east window.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_temperature",
+      "title": "Chinese Evergreen (Aglaonema) - Temperature",
+      "content": "Normal room temperature (65-75°F/18-24°C).",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_fertilizer",
+      "title": "Chinese Evergreen (Aglaonema) - Fertilizer",
+      "content": "From spring through summer, feed monthly with a balanced fertilizer. In winter, feed every 6 weeks.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_water",
+      "title": "Chinese Evergreen (Aglaonema) - Water",
+      "content": "Keep soil lightly moist at all times. Do not overwater nor keep so dry that the leaves droop.  This plant tolerates dry air better than most, but still benefits from misting every day or so when indoor air is very dry",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_soil",
+      "title": "Chinese Evergreen (Aglaonema) - Soil",
+      "content": "Any good potting soil.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_repotting",
+      "title": "Chinese Evergreen (Aglaonema) - Repotting",
+      "content": "Every 2 years is normally sufficient, as these plants like to be slightly rootbound. Repot in any season.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_longevity",
+      "title": "Chinese Evergreen (Aglaonema) - Longevity",
+      "content": "10 years or more.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_propagation",
+      "title": "Chinese Evergreen (Aglaonema) - Propagation",
+      "content": "When a plant grows too tall, cut off the tip and root it like a stem tip cutting as described on page 299. Aglaonemas also may be propagated by division, but this operation should not be undertaken until plants become quite rootbound.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_selections",
+      "title": "Chinese Evergreen (Aglaonema) - Selections",
+      "content": "Newer varieties that are less likely to be injured by temperatures below 50°F/10°C include 'Emerald Star', with white speckles on bright green leaves, and 'Silver Bay', in which each leaf center is generously splashed with cream, and several others.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_parameters_display_tips",
+      "title": "Chinese Evergreen (Aglaonema) - Display Tips",
+      "content": "When small, aglaonema is an ideal tabletop plant for dim living rooms or cozy reading areas. Larger plants show best when combined with dark-leafed plants with a similar tolerance of low light, such as pothos or sanseveria.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Care Instructions"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_disease_cold_injury",
+      "title": "Chinese Evergreen (Aglaonema) - Cold Injury",
+      "content": "Leaves develop gray, greasy splotches that turn yellow; pale in color with paler leaf tips; To solve this problem, remove damaged leaves, and keep plant in a place where it will not be chilled by cold windows or blasts of cold from entryways. This plant needs temperatures above 60°F/16°C at all times.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Troubleshooting"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_disease_excessive_light",
+      "title": "Chinese Evergreen (Aglaonema) - Excessive",
+      "content": "Leaves are stiffly upright rather than arching; pale in color with paler leaf tips; To solve this problem, move plants to a shadier location. Chinese evergreens are native to the jungle floor, so they need low light. Commercial growers grow them in 70 to 90 percent shade.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Troubleshooting"
+      }
+    },
+    {
+      "id": "plant_info(completeplants)_chinese_evergreen_disease_copper_deficiency",
+      "title": "Chinese Evergreen (Aglaonema) - Copper Deficiency",
+      "content": "New leaves are yellow and small, deformed with kinked edges; To solve this problem, root temperatures below 65°F/18°C can limit the plants' uptake of copper, or the soil may be deficient. Treat plant with a micronutrient spray , keep in a warm place, and repot if appropriate to refresh the soil.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Troubleshooting"
+      }
+    }
+  ]

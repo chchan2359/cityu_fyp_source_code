@@ -1,0 +1,22 @@
+[
+    {
+        "id": "plant_info(gardeners_world)_ogon_nishiki_basic",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticum) - Basic Information",
+        "content": "Trachelospermum asiaticum 'Ogon Nishiki' is a striking star jasmine, bearing variegated leaves in gold, green, yellow and white, which are complemented by fragrant white flowers in summer. Its autumn colours are spectacular. Although technically a climber it's slow to start growing and may need support to climb a fence or trellis. Alternatively, grow as ground cover, or plant in pots and allow its foliage and flowers to cascade down, with dramatic effect.",
+        "metadata": {
+            "source": "BBC Gardeners' World",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(gardeners_world)_ogon_nishiki_growing_tips",
+        "title": "Ogon Nishiki (Trachelospermum Asiaticum) - Problem Pests Diseases",
+        "content": "Grow Trachelospermum asiaticum 'Ogon Nishiki’ in moist but well-drained soil in a sheltered site in full sun. It’s not fully hardy so may not be suitable for cooler regions. Low maintenance, it requires only deadheading and pruning back to retain its shape. However be careful when pruning - the milky sap can irritate the skin.",
+        "metadata": {
+            "source": "BBC Gardeners' World",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

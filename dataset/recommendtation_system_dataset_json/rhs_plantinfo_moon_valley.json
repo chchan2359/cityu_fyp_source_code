@@ -1,0 +1,92 @@
+[
+    {
+        "id": "plant_info(rhs)_moon_valley_basic",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Basic Information",
+        "content": "An evergreen perennial to 30cm, with deep bronze-purple, toothed, ovate leaves with strongly puckered surfaces, the margins often light green.  An ideal plant for terrariums and bottle gardens",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_size",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Size",
+        "content": "Ultimate Height: 0.1 to 0.5 Metres; Ultimate Spread: 0.1 to 0.5 Metres; Time to Ultime Height: 2 to 5 years",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_growing_conditions",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Growing Conditions",
+        "content": "Soil for this plant: Loam (Common houseplant soil), Chalk, Sand; Moisture: Moist but well-drained; pH Value: Neutral, Acide, Alkaline",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_position",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Position",
+        "content": "Aspect: South-facing or East-facing; Partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_cultivation",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Cultivation",
+        "content": "Grow under glass or in a frost-free enviroment. Requires high humidity, branches become woody at base.",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_propagation",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Propagation",
+        "content": "Propagate by seed, by division or detatch rosettes in spring",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_pruning",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Pruning",
+        "content": "No pruning required",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_pests",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Pests",
+        "content": "Generally pest-free",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_moon_valley_diseases",
+        "title": "Moon Valley (Pilea Mollis/Pilea Involucrata) - Diseases",
+        "content": "May be susceptible to Powdery Mildews",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

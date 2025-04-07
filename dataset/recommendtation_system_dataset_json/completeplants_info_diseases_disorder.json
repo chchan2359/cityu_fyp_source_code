@@ -1,0 +1,112 @@
+[
+    {
+      "id": "houseplant(completeplants)_diseases_basic",
+      "title": "Houseplant Diseases - Basic Information",
+      "content": "Unlike plants that live in the wild world of the outdoors, houseplants enjoy a comparatively clean environment, so they tend to have few problems with disease. However, their confinement in pots, with no way to escape stressful conditions, puts them at high risk for several common disorders. These disorders often look like diseases, and you are wise to consider both possibilities when working with a distressed houseplant; Most houseplant diseases - including leaf spots and diseases that cause stems and roots to rot - are caused by fungi. Fungi somewhat resemble plants in their life cycle. Microscopic spores germinate and use enzymes to penetrate plant cells. Using the cells as food, the fungus spreads until it becomes mature, at which time it releases thousands of new spores.",
+      "metadata": {
+        "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+        "credibility": "High",
+        "category": "Troubleshooting"
+      }
+    },
+    {
+        "id": "houseplant(completeplants)_diseases_fungi_leaf_spots",
+        "title": "Houseplant Diseases - Leaf Spots casused by Fungi",
+        "content": "Leaf spots caused by fungi may have a sunken middle or a dark place in the center of the spot - the 'fruiting' site that produces the next generation of spores. Removing leaves that show suspicious spots interrupts the life cycle by removing multitudes of potential spores. When a leaf-spotting disease is afoot, it also helps to keep leaf surfaces dry, because most of these fungi need damp leaf surfaces in order for spores to germinate and grow.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_diseases_fungi_roots_stems_rot",
+        "title": "Houseplant Diseases - Roots and Stems Rot cause by Fungi",
+        "content": "Fungi that cause roots and stems to rot are more secretive, and by the time the plant wilts or becomes brown and mushy near the base it is very close to death. Overwatering often contributes to this problem, especially when combined with cool temperatures. Root rot also can become established when roots are damaged during repotting, because some root rot fungi can enter a host plant only through open wounds. Contaminated potting soil or dirty containers set the stage for disaster when roots are pruned during routine repotting; Whatever the cause, it is often futile to try to revive a plant that has suffered from rotting of its roots or basal stems. If a plant is shriveled or collapsed and you suspect root rot, remove it from its container and inspect the roots. Rotted roots are black or nearly disintegrated. Some soil-borne diseases destroy the fine root hairs and root sheaths, leaving only fragile, stripped fibers behind. Other fungal diseases leave roots intact until they have destroyed the plant by girdling stems near the soil line. Dark brown spots near the base of wilted stems are usually caused by fungal diseases. Some fungi coat the base of affected stems with fuzzy gray mycelium; Roots that are noticeably darker than others often have been damaged by fungi. Clip them off when repotting your plants; Plants plagued with rotting roots can sometimes be saved by propagating a healthy stem cutting, or you can simply discard the affected plant. Before using the container to grow a new plant, scrub it well with hot, soapy water, then dip it in a solution of ½ cup/118 ml chlorine bleach per gallon of water and let it dry in the sun.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_diseases_fungicides",
+        "title": "Houseplant Diseases - Fungicides",
+        "content": "Fungicides are chemicals that kill or inhibit the growth of fungi, so it makes sense that using a fungicide might cure a disease problem. Unfortunately, this rarely works, for two reasons; Fungicides are best used preventatively, before a disease becomes serious, because they are more useful for stopping fungal spores from germinating than for routing out an established infection; Leaf tissues do not regenerate once they have been devastated by a fungal disease, so stopping the progress of the fungus does little to restore the health of the plant; Save your use of fungicides for outdoor plants at high risk of developing fungal diseases, and use them to prevent, rather than cure, fungus problems.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_diseases_sooty_mold",
+        "title": "Houseplant Diseases - Sooty Mold",
+        "content": "Insects that feed by sucking plant sap, such as aphids and scale, excrete a sticky substance called honeydew, which in turn serves as an ideal home for dark-colored sooty mold. Sooty mold is often mistaken for fungus, but there is a major difference in that sooty mold does not invade leaf tissues. It can be removed using a soft cloth dipped in soapy water, and once leaves are clean they usually appear perfectly healthy. Sooty mold can occur on either side of a plant's leaves, or on both sides. When a plant shows patches of sooty mold, be sure to check for the presence of the pest that created the honeydew and take appropriate measures to bring it under control. In some situations, the sucking insect that began the problem cycle is gone by the time sooty mold develops on plant leaves.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_disorder_basic",
+        "title": "Houseplant Disorder - Basic Information",
+        "content": "Much more frequently than they are weakened by disease, houseplants show symptoms of physiological disorders. One of the most common is brown leaf tips; most other disorders are easier to prevent; When you suspect that a plant is plagued by a disorder, go back to the basics. Make sure the plant is being given a fair chance in terms of light and temperature, and pay closer attention to watering and feeding. If you cannot provide suitable growing conditions for a certain plant, either discard it or give it to someone who can. Relieved of this needless aggravation, you can spend your energy nurturing plants that are more easily satisfied by the sites you have to offer.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_disorder_weeping",
+        "title": "Houseplant Disorder - Weeping",
+        "content": "Occasionally pothos and other house-plants weep droplets of moisture when they are overwatered. Increasing air circulation while reducing watering solves this problem.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_disorder_oedema",
+        "title": "Houseplant Disorder - Oedema",
+        "content": "Peperomia and some succulents actually suffer ruptured tissues when overwatering coincides with low light conditions. This condition, called oedema, causes corky bumps or ridges to form on stems and leaf undersides. Affected leaves may eventually turn yellow and fall from the plant. Keeping the plant warmer and watering less stops the damage; When forced to take up too much water, some plants develop bumpy ruptures in their leaves or stems, a condition called oedema.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_disorder_leaf_shed",
+        "title": "Houseplant Disorder - Leaf Shed",
+        "content": "Plants shed leaves for a number of reasons, including over- or underwatering, changes in light or temperature, or as part of their normal growth pattern. Many plants shed a few leaves in the weeks immediately after they are moved, but if a plant continues to shed leaves despite good care, it should checked to see if it needs repotting. The combination of rootbound growing conditions and scant fertilizer often causes plants to turn yellow and shed their oldest leaves.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_disorder_failure_to_thrive",
+        "title": "Houseplant Disorder - Failure To Thrive",
+        "content": "Air pollution can cause plants to fail to thrive, and plants, like people, tend to slow down as they reach old age.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_disorder_brown_leaf_tips",
+        "title": "Houseplant Disorder - Brown Leaf Tips",
+        "content": "One of the most common physiological disorders is the browning of leaf tips, which can be caused by tainted water, erratic watering, overfeeding, or a combination of factors. Plants with long, strappy leaves are most likely to develop brown leaf tips because moisture and nutrients must make such a long trip to keep cells at the leaf tips well supplied with moisture and nutrients; In many plants, brown leaf tips is a symptom of tainted water, uneven watering, or overfeeding.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    }
+]

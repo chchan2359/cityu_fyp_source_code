@@ -1,0 +1,22 @@
+[
+    {
+        "id": "plant_info(missouri_botanical)_kusamaki_basic",
+        "title": "Kusamaki (Podocarpus Macrophyllus) - Basic Information",
+        "content": "Podocarpus macrophyllus, commonly called Kusamaki, yew plum pine, or Buddhist pine, is native to mountainous areas of China and Japan. It is an evergreen conifer that typically grows as a narrow-conical tree to 50 feet tall or sometimes as a large shrub. In cultivation in warm winter areas of the U. S. , it usually grows much shorter (to 20-40 feets). This is a slow-growing conifer that features leathery, soft-textured, shiny dark green, yew-like needles (to 4 inches long) arranged in dense spirals. Foliage is pleasantly fragrant when bruised. Ellipsoidal fruits (to 1. 5 inches long) are fleshy, olive-green, berry-like cones that ripen in the second year to purple. Fruits may be eaten out of hand or used in pies and cakes. Other common names include Japanese yew, yew pine, southern yew, yew podocarpus and podocarpus; Genus name comes from the Greek words pous or podos meaning a foot and karpos meaning a fruit as the fruit is born on a fleshy stalk; Specific epithet means large-leaved.",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(missouri_botanical)_kusamaki_problem_pests_diseases",
+        "title": "Kusamaki (Podocarpus Macrophyllus) - Problem Pests Diseases",
+        "content": "No serious insect or disease problems. Scale Insects may appear on indoor plants.",
+        "metadata": {
+            "source": "Missouri Botanical Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "plant_info(rhs)_luna_red_basic",
+        "title": "Luna Red (Pepepromia Caperata) - Basic Information",
+        "content": "An evergreen perennial to 20cm, with heart-shaped, deep purplish-crimson leaves 3-4cm in length, with deep main veins",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_size",
+        "title": "Luna Red (Pepepromia Caperata) - Size",
+        "content": "Ultimate Height: 0.1 to 0.5 Metres; Ultimate Spread: 0.1 to 0.5 Metres; Time to Ultime Height: 2 to 5 years",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_growing_conditions",
+        "title": "Luna Red (Pepepromia Caperata) - Growing Conditions",
+        "content": "Soil for this plant: Loam (Common houseplant soil), Chalk, Sand; Moisture: Moist but well-drained; pH Value: Neutral, Acide, Alkaline",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_position",
+        "title": "Luna Red (Pepepromia Caperata) - Position",
+        "content": "Aspect: South-facing or East-facing or West-facing; Partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_cultivation",
+        "title": "Luna Red (Pepepromia Caperata) - Cultivation",
+        "content": "Under glass grow in a peat-free potting compost in bright indirect light when in growth and full light in winter. When in growth water moderately and apply a balanced liquid fertiliser in spring and early summer. Water sparingly in winter.",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_propagation",
+        "title": "Luna Red (Pepepromia Caperata) - Propagation",
+        "content": "Propagate by seed sown at 19 to 24°C when ripe or take softwood cuttings during growth",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_pruning",
+        "title": "Luna Red (Pepepromia Caperata) - Pruning",
+        "content": "No pruning required",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_pests",
+        "title": "Luna Red (Pepepromia Caperata) - Pests",
+        "content": "Generally pest-free",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_luna_red_diseases",
+        "title": "Luna Red (Pepepromia Caperata) - Diseases",
+        "content": "Generally disease-free",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

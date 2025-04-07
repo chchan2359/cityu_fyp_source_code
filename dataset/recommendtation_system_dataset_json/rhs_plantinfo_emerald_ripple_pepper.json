@@ -1,0 +1,92 @@
+[
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_basic",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Basic Information",
+        "content": "An evergreen mound-forming perennial to 20cm tall, with thick, puckered, heart-shaped, dark green leaves to 5cm across; these are held on long, succulent stalks. From spring to autumn it produces upright, tail-like or club-shaped spikes of tiny greenish-white flowers.  An ideal plant for terrariums and bottle gardens",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_size",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Size",
+        "content": "Ultimate Height: 0.1 to 0.5 Metres; Ultimate Spread: 0.1 to 0.5 Metres; Time to Ultime Height: 2 to 5 years",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_growing_conditions",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Growing Conditions",
+        "content": "Soil for this plant: Loam (Common houseplant soil), Sand; Moisture: Moist but well-drained; pH Value: Neutral, Acide, Alkaline",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_position",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Position",
+        "content": "Aspect: East-facing or North-facing or South-facing or West-facing; Full Sun or Partial shade",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_cultivation",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Cultivation",
+        "content": "Grow in houseplant compost in bright indirect light while in growth, moving into full light in winter. Water moderately in summer, sparingly in winter, preferably with tepid, soft water. From spring to summer mist daily to maintain moderate to high humidity; apply a balanced liquid fertiliser monthly. Pull off spent flowers.",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_propagation",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Propagation",
+        "content": "Propagate by sowing seed at 19-24°C when ripe; take leaf stalk or leaf blade cuttings in spring and summer",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_pruning",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Pruning",
+        "content": "No pruning required",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Care Instructions"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_pests",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Pests",
+        "content": "Generally pest-free",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "plant_info(rhs)_emerald_ripple_pepper_diseases",
+        "title": "Emerald Ripple Pepper (Peperomia caperata) - Diseases",
+        "content": "May be susceptible to grey moulds",
+        "metadata": {
+            "source": "Royal Horticultural Society (RHS) Garden",
+            "credibility": "High",
+            "category": "Troubleshooting"
+        }
+    }
+]

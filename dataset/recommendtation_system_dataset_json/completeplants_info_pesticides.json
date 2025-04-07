@@ -1,0 +1,62 @@
+[
+    {
+        "id": "houseplant(completeplants)_pesticides_basic",
+        "title": "Houseplant Pesticides - Basic Information",
+        "content": "Before using any pesticide on a houseplant, carefully read the product's label to make sure it is appropriate for both the pest and the plant. When any houseplant is treated with a pesticide, be sure to keep the plant in a shady place, as pesticides and bright light often combine to cause injury to plant leaves. Use the following lists as general guides; obscure houseplants are often not listed on pesticide labels. If you are unsure about a plant's tolerance of any chemical, apply it to a test leaf and wait 3 days before treating the entire plant.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_pesticides_imidacloprid",
+        "title": "Houseplant Pesticides - Imidacloprid",
+        "content": "What it is: Imidacloprid is the least toxic pesticide that works on contact with insects as well as systemically, by mixing with plant sap. Insects that subsequently feed on plants are poisoned as they take up small amounts of the pesticide; Plants with delicate leaves that may be injured by this or other types of sprays can be treated by soaking the roots with this pesticide, or by repotting into soil that has been amended with imidacloprid. This insecticide is owned by the Bayer company; products containing imidacloprid are widely available under the Bayer brand name. Precautions: Do not apply imidacloprid concentrates indoors, and do not use this pesticide on edible plants such as rosemary or calamondin orange.",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_pesticides_insecticidal_soap",
+        "title": "Houseplant Pesticides - Insecticidal Soap",
+        "content": "What it is: Insecticidal soaps, as well as homemade soap sprays, kill insects by cutting through their protective coatings, causing them to dry up. The spray must actually coat the insects to be effective. Precautions: Insecticidal soaps are safe to apply indoors, but they can cause leaf injury to some plants. Never use insecticidal soap on newly rooted cuttings, which cannot have the functioning of their sparse leaves compromised in any way. DO NOT USE ON: 1. Begonia 2. Crown of thorns 3. Ferns (not all are sensitive) 4. Jade plant 5.  Palms",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_pesticides_neem",
+        "title": "Houseplant Pesticides - Neem",
+        "content": "What it is: Neem is a natural pesticide made from a tree that makes pests stop feeding, and also interferes with maturation processes. Neem also deters several fungal diseases. Precautions: It can safely be applied indoors. Products often have neem in their name, or you can check the label for azadirachtin, the active ingredient. PLANTS OFTEN SENSITIVE TO NEEM: 1. African violet 2. Begonia 3. Crown of thorns 4. Ferns (not all are sensitive) 5. Geranium 6. Ivy 7. Jade plant and other succulents 8. Palms 9.  Schefflera",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_pesticides_carbaryl",
+        "title": "Houseplant Pesticides - Carbaryl",
+        "content": "What it is: Carbaryl (best know as sevin) is a synthetic pesticide that kills a wide range of insects. Precautions: Carbaryl should not be applied indoors. When applied outdoors, it has been known to damage leaves of some plants. PLANTS SENSITIVE TO CARBARYL: 1. Aluminum plant 2. Arrowhead plant 3. English ivy 4. Ferns 5. Peperomia 6.  Schefflera",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    },
+    {
+        "id": "houseplant(completeplants)_pesticides_orthene",
+        "title": "Houseplant Pesticides - Orthene",
+        "content": "What it is: Orthene (acephate) is a synthetic pesticide that is toxic to most insects. Precautions: It can be applied indoors. Still, check the label, because it can cause leaf damage to some plants. PLANTS SENSITIVE TO ORTHENE: 1. African violet 2. Chrysanthemum 3. Ferns 4. Ficus 5. Geranium 6. Nerve plant 7. Palms 8. Piggy-back plant 9. Poinsettia 10. Prayer plant 11.  Shefflera",
+        "metadata": {
+          "source": "The Complete Houseplant Survival Manual Essential Know-How for Keeping (Barbara Pleasant)",
+          "credibility": "High",
+          "category": "Troubleshooting"
+        }
+    }
+]

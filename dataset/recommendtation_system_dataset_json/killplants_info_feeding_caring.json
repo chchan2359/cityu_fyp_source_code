@@ -1,0 +1,52 @@
+[
+  {
+    "id": "houseplant(killplants)_feeding_caring_basic",
+    "title": "Houseplant Feeding & Caring - Basic Information",
+    "content": "You need to do more than just water your plant to keep it alive - most plants need feeding too. It's also worth spending a few minutes each week examining and grooming your plant - it will thrive on your attention.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructionss"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_feeding",
+    "title": "Houseplant Feeding & Caring - Feeding",
+    "content": "All plants need food to thrive. Carnivorous plants capture prey to feed on, but most houseplants will need to be fed. You should start feeding your plant a few weeks after you get it home, or around a couple of months after it has been repotted. In spring and summer, add a liquid houseplant feed to your watering can - usually around once a month. Be sure to follow the manufacturer's instructions and don't be tempted to add extra - overfeeding can damage the plant. It's best to feed when the compost is already moist - that way it will reach the roots directly and won't drain away. Alternatively, add slow-release pellets or spikes to the compost as a more low maintenance approach - they'll release a little food every time you water. Don't feed houseplants in winter, unless they are winter-flowering.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructions"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_extra_care_cleaning",
+    "title": "Houseplant Feeding & Caring - Extra Care: Cleaning",
+    "content": "Wipe your plant's leaves (especially those with large leaves) with a clean, damp cloth to keep them dust-free, as dust can prevent light getting to the leaves. Stand palms in a tepid shower in winter, or a rain shower in summer. Furry-leaved or prickly plants are best cleaned with a soft paintbrush. Use a paintbrush for furry leaves. Use a damp cloth to wipe waxy leaves.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructions"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_extra_care_grooming",
+    "title": "Houseplant Feeding & Caring - Extra Care: Grooming",
+    "content": "Remove old leaves and deadhead flowers - this will encourage more blooms and will prevent dead petals from landing on the foliage, causing it to rot. Remove old, brown leaves.",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Care Instructions"
+    }
+  },
+  {
+    "id": "houseplant(killplants)_extra_care_inspecting",
+    "title": "Houseplant Feeding & Caring - Extra Care: Inspecting",
+    "content": "Get to know your plant by spending a minute or two every week examining it and making sure it looks good. This is not only an important way to keep it healthy, but will mean you'll spot signs of problems more quickly when they occur. Prevention is better than cure. If you notice that your plant is looking sickly, check your care regime and look for signs of pests or diseases before they have a chance to cause significant problems (see houseplant(killplants)_diseases, and houseplant(killplants)_pests).",
+    "metadata": {
+      "source": "How Not to Kill Your Houseplant Survival Tips for the Horticulturally Challenged (Veronica Peerless)",
+      "credibility": "High",
+      "category": "Troubleshooting"
+    }
+  }
+]
